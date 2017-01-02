@@ -1,0 +1,194 @@
+2017-01-02T11:57:34.110Z - normal: Load ~/.CocosCreator/settings.json
+2017-01-02T11:57:34.118Z - normal: checking language setting...
+2017-01-02T11:57:34.118Z - normal: Language: zh
+2017-01-02T11:57:35.244Z - success: protocol editor-framework registered
+2017-01-02T11:57:35.244Z - success: protocol app registered
+2017-01-02T11:57:35.245Z - success: protocol packages registered
+2017-01-02T11:57:35.246Z - success: protocol theme registered
+2017-01-02T11:57:35.247Z - success: protocol unpack registerred
+2017-01-02T11:57:35.435Z - normal: connected!
+2017-01-02T11:57:35.439Z - normal: Check project E:\cocos2d-x\start_project
+2017-01-02T11:57:35.442Z - normal: Initializing Cocos Creator Editor
+2017-01-02T11:57:35.765Z - normal: Initializing Cocos2d
+2017-01-02T11:57:35.929Z - normal: Initializing Asset Database
+2017-01-02T11:57:35.945Z - success: protocol uuid registerred
+2017-01-02T11:57:35.945Z - success: protocol db registerred
+2017-01-02T11:57:35.945Z - success: protocol thumbnail registerred
+2017-01-02T11:57:35.945Z - normal: Loading editor/builtin packages
+2017-01-02T11:57:36.039Z - success: assets loaded
+2017-01-02T11:57:36.040Z - success: builder loaded
+2017-01-02T11:57:36.042Z - success: hierarchy loaded
+2017-01-02T11:57:36.045Z - success: inspector loaded
+2017-01-02T11:57:36.047Z - success: keystore loaded
+2017-01-02T11:57:36.049Z - success: node-library loaded
+2017-01-02T11:57:36.054Z - success: preferences loaded
+2017-01-02T11:57:36.064Z - success: project-importer loaded
+2017-01-02T11:57:36.065Z - success: project-settings loaded
+2017-01-02T11:57:36.067Z - success: ui-kit loaded
+2017-01-02T11:57:36.068Z - success: ui-grid loaded
+2017-01-02T11:57:36.070Z - success: scene loaded
+2017-01-02T11:57:36.070Z - success: sprite-editor loaded
+2017-01-02T11:57:36.074Z - success: timeline loaded
+2017-01-02T11:57:36.074Z - normal: Loading builtin packages
+2017-01-02T11:57:36.077Z - success: asset-db-debugger loaded
+2017-01-02T11:57:36.079Z - success: code-editor loaded
+2017-01-02T11:57:36.079Z - success: color-picker loaded
+2017-01-02T11:57:36.084Z - success: console loaded
+2017-01-02T11:57:36.089Z - success: package-manager loaded
+2017-01-02T11:57:36.093Z - success: tester loaded
+2017-01-02T11:57:36.094Z - success: ui-kit-preview-extra loaded
+2017-01-02T11:57:36.095Z - success: ui-kit-preview loaded
+2017-01-02T11:57:36.096Z - success: ui-tree loaded
+2017-01-02T11:57:36.123Z - normal: Initializing project E:\cocos2d-x\start_project
+2017-01-02T11:57:36.125Z - normal: Loading packages
+2017-01-02T11:57:36.128Z - normal: Watching packages
+2017-01-02T11:57:36.137Z - normal: Run Application
+2017-01-02T11:57:36.429Z - success: preview server running at http://localhost:7456
+2017-01-02T11:57:41.893Z - normal: 1.3.3
+2017-01-02T11:59:11.533Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:16.183Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:39.137Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:40.756Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:41.033Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:41.204Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:41.372Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:54.475Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:57.603Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.178Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.320Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.479Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.630Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.764Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:58.912Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.073Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.216Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.371Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.520Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.662Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-01-02T11:59:59.819Z - error: 项目名不合法, 只能包含这些字符: [0-9], [a-z], [A-Z], [_]. 并且 [-] 在 android 上也不支持.
+    at Vue._build (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:14082)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at eval (D:\CocosCreator\resources\app.asar\editor\builtin\builder\panel\builder.js:1:13533)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)

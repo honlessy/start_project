@@ -1,0 +1,16 @@
+{
+  "androidStudio": false,
+  "apiLevel": "",
+  "buildPath": "C:\\Users\\admin\\Desktop",
+  "debug": true,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": true,
+  "template": "default",
+  "useDebugKeystore": true
+}
